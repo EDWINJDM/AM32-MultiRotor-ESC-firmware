@@ -17,7 +17,7 @@
 //#define AIKONSINGLE_F051
 //#define FLYCOLOR_F051
 //#define AM32REF_F051
-#define BLPWR_F051
+define BLPWR_F051
 //#define HVFLYCOLOR_F051
 //#define FLASHHOBBY_F051
 //#define SEQURE_G071
